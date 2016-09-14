@@ -8,7 +8,8 @@
     * search google (or bing or baidu...) and learn to use the "time" and "timedate" package
     * search google (or bing or baidu...) and learn to use the "format" function, which is an method of Class String.
 ```
-we have a datafile of one variabe star, the first few lines is the header (or meta data) of this file, which record the basic information of this variable star and the format of the latter data.
+we have a datafile of one variabe star, the first few lines is the header (or meta data) of this file,
+    which record the basic information of this variable star and the format of the latter data.
 
 you need to:
     define a class named VariableStar, then use the data file name to init it and get a instance.
