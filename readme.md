@@ -7,7 +7,7 @@
     * understand all the python syntax in lecture1
     * search google (or bing or baidu...) and learn to use the "time" and "timedate" package
     * search google (or bing or baidu...) and learn to use the "format" function, which is an method of Class String.
-
+```
 we have a datafile of one variabe star, the first few lines is the header (or meta data) of this file, which record the basic information of this variable star and the format of the latter data.
 
 you need to:
@@ -36,12 +36,13 @@ you need to:
     write Docs
 
     write a Demo to show that all the requirements are satisfied
-
+```
 # homework2
 * before doing this homework, you should
     * learn to use numpy and pandas to parse tables files
     * learn to use astropy
 
+```
     modify your VariableStar, now you can use pandas to parse the file
 
     use matplotlib
@@ -64,3 +65,4 @@ you need to:
     write Docs
 
     write a Demo to show that all the requirements are satisfied
+```
