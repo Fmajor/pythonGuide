@@ -14,6 +14,7 @@ we have a datafile of one variabe star, the first few lines is the header (or me
 you need to:
     define a class named VariableStar, then use the data file name to init it and get a instance.
         like this:   someSpecificVariableStar = VariableStar("data1.txt")
+        Tips: use string method "stripe", "split"
 
     parse all the information into properties of this class.
         For example, I want to use someSpecificVariableStar.name to get the name of this variable
