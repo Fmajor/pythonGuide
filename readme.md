@@ -33,6 +33,7 @@ you need to:
             time                      U            V            B
             2014-11-23T10:23:10
             ......
+        use "nan" in the print for missing data
         try to align your print in proper way
 
     write Docs
